@@ -1,135 +1,76 @@
-
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ozodbek+Tursunpulatov!+;"😎 />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ozodbek+Tursunpulatov+😉;Backend+Developer+💻;Future+Cyber+Security+Specialist+🛡️" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate  Backend Developer from Uzbekistan</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ozodbekme&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</p>
 
-<br/>
+---
+
+### 💫 About Me:
+- 👨‍💻 **Backend Developer** with a passion for building secure and scalable systems  
+- 🌐 Currently expanding my skills in **Web Development** (Node.js, Express, REST APIs)  
+- 🧠 On a journey to become a **Cyber Security Specialist** — mastering Linux, Network Defense, and Ethical Hacking  
+- ⚙️ I enjoy automating workflows and writing clean, maintainable code  
+- ⚡ **Fun fact:** I love solving CTF challenges & playing football!
+
+---
+
+### 🧰 Tech Stack:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,python,fastapi,html,css,tailwind,react,linux,bash,git,github,postgresql,mysql,docker,nginx&theme=dark" />
+</p>
+
+---
+
+### 📈 GitHub Stats:
 
 <div align="center">
- 
- 🔭 I’m currently working on **Data Structure & Algorithm**
- 
- 🌱 I’m currently learning **Python**
-
-💬 Ask me about **Backend**
- </div>
- 
-<div align="center"> 
-  <a href="mailto:ozodbekt2600@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-    <a href="https://wakatime.com/@ea99f606-f394-4982-9cc4-d033945b2a0a"><img src="https://wakatime.com/badge/user/ea99f606-f394-4982-9cc4-d033945b2a0a.svg" alt="Total time coded since Mar 27 2025" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ozodbekme&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" width="47%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ozodbekme&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" width="47%" />
 </div>
 
-<hr/>
-<details open> 
-  <summary><h2>📘 My exercises from Data Structure & Algorithm</h2></summary>
-     <div align="left">
-        <!-- 1 -->
-         <a href="https://github.com/OzodbekTursunpulatov/DSA"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OzodbekTursunpulatov &repo=DSA&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="DSA"></a> 	 
-    </div>
- </details>
+---
 
-<br/><br/>
+### 🔥 Contribution Streak:
 
-<hr/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ozodbekme&theme=tokyonight&date_format=[Y.]n.j&fire=DD2727&sideNums=F97C7C&currStreakLabel=DD2727&currStreakNum=F7D774" alt="GitHub Streak" />
+</p>
 
-<details open> 
-  <summary><h2>📘 My plan 90 days from Python Backend and Cyber_Security</h2></summary>
-     <div align="left">
-        <!-- 1 -->
-         <a href="https://github.com/Sadullayev-Javohir/dotNetAspNet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=dotNetAspNet&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="svetafor"></a> 	 
-    </div>
- </details>
+---
 
-<br/><br/>
+### 🏆 GitHub Trophies:
 
-<hr/>
-<details open> 
-  <summary><h2>📘 My exercises from PostgreSQL</h2></summary>
-     <div align="left">
-        <!-- 1 -->
-         <a href="https://github.com/Sadullayev-Javohir/postgreesql"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=postgreesql&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="svetafor"></a> 	 
-    </div>
- </details>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ozodbekme&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
+</p>
 
-<br/><br/>
+---
 
+### 🧑‍💻 Featured Projects:
+| Project | Description | Tech |
+|----------|--------------|------|
+| 🔐 **SecureAuth API** | RESTful API with JWT Authentication, role-based access & rate limiting | Node.js, Express, PostgreSQL |
+| ☁️ **DevOps Monitor** | A containerized dashboard for monitoring backend health | Docker, Prometheus, Nginx |
+| 🧱 **Portfolio Website** | Modern responsive portfolio with animations and dark mode | HTML, CSS, JavaScript |
 
- <hr/>
+---
 
- <details open> 
-  <summary><h2>📘 My plan 90 days from C</h2></summary>
-     <div align="left">
-        <!-- 1 -->
-         <a href="https://github.com/Sadullayev-Javohir/Cprogramminglanguage"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=Cprogramminglanguage&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="svetafor"></a> 	 
-    </div>
- </details>
+### 📫 Contact Me:
+<p align="center">
+  <a href="https://t.me/your_username"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://linkedin.com/in/your_username"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<br/><br/>
+---
 
+### 💬 Motto:
+> “Security is not a product, but a process.” — Bruce Schneier  
+> Made with ❤️ and ☕ by **Ozodbek Tursunpulatov**
 
- <hr/>
-  <details close> 
-  <summary><h2>📘 My exercises from Javascript</h2></summary>
-     <div align="left">
-        <!-- 1 -->
-         <a href="https://github.com/Sadullayev-Javohir/svetafor"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=svetafor&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="svetafor"></a> 	 
-    </div>
- </details>
+---
 
-<br/><br/>
-
-
- <br/><br/>
-
-<hr/>
-<h2 align="center">⚒️ The languages ​​I learned ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,py,kali,linkedin,linux,html,css,vscode,js,github,figma,tailwind,git,cs" /><br>
-</div>
-
-<hr>
-
-<br/>
-<hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-    <img width=390 height = 200 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Sadullayev-Javohir&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
-  <img width=390 height = 200 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Sadullayev-Javohir&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-
-  <br/>
-    
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sadullayev-Javohir&show_icons=true&theme=radical" alt="Sadullayev Javohir GitHub Stats" />
-
-
-</div>
-
-<br/><br/>
-
-<hr/>
-<a width = 390 height = 200 href="https://wakatime.com"><img src="https://wakatime.com/share/@ea99f606-f394-4982-9cc4-d033945b2a0a/001728b0-165d-460d-8447-9e25635e59bb.png" /></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ea99f606-f394-4982-9cc4-d033945b2a0a/af7edd62-61cf-4198-8838-3634041b2d74.png" /></a>
-<hr/>
-## Hi there 👋
-
-<!--
-**OzodbekTursunpulatov/OzodbekTursunpulatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
