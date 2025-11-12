@@ -1,3 +1,9 @@
+ **<img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" width="50" height="50"/>**  **About me**
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Hello+Github;Welcome+to+my+profile;kotlin+java+dart;Android+Flutter+KMM"></a>
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ozodbek+Tursunpulatov+😉;Backend+Developer+💻;Future+Cyber+Security+Specialist+🛡️" alt="Typing SVG" />
 </h1>
